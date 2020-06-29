@@ -1,0 +1,7 @@
+{
+  "code": 20000,
+  "userinfo": {
+    "name": "小王",
+    "roles": ["admin"]
+  }
+}
